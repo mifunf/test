@@ -17,10 +17,10 @@ feature {NONE} -- Initialization
 	make
 			-- Run application.
 		do
-			create p.make ("Jon")
-			p.set_age(23)
-			p.add_programming_language ("Eiffel")
+			print("Hello World")
 		end
+	
+	
 
 
 
