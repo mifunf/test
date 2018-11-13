@@ -19,5 +19,10 @@ feature
 			set_name (n)
 			create known_programming_languages.make
 		end
-
+feature 
+	
+	hello
+		do
+		end
+	
 end
